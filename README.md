@@ -3,7 +3,7 @@ The most efficient texture packer!
 
 This project will contains:
 
-  1.Collider Generator based on pixel
+  1.Collider Gen based on pixel
   
   2.Triangulation use Poly2Tri or Triangle.Net
   
