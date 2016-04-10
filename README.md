@@ -9,7 +9,7 @@ This project will contains:
   
   3.2D polygon pack
   
-  4.Some tricks(alpha separate, dice as 2DToolkit)
+  4.Some tricks(alpha separate, diced as 2DToolkit)
 
 
 
