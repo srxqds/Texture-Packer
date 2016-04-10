@@ -7,7 +7,7 @@ This project will contains:
   
   2.Triangulation use Poly2Tri or Triangle.Net
   
-  3.2D polygon packer
+  3.2D polygon pack
   
   4.Some tricks(alpha separate, dice as 2DToolkit)
 
