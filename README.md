@@ -1,5 +1,5 @@
 # Texture-Packer
-The most efficient texture packer!
+
 
 This project will contains:
 
