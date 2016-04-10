@@ -31,11 +31,7 @@ public class ColliderGenForSprite
     public GameObject gameObject;
     
 
-    public bool doBI;
-	public bool doErosion;
-	public bool doDilation;
-	public bool doSub;
-	public bool doVert;
+
 
     public bool generateTexture = true;
 	
